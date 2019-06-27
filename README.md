@@ -1,4 +1,5 @@
 # IRP - A software package for Climate Modelling diagnostics
+**Note: This repository contains the first prototype of the software package**
 
 Written in Python 3 and contains functions that enable generate relevant diagnostics. 
 
