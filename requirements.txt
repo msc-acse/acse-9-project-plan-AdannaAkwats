@@ -4,4 +4,4 @@ netCDF4==1.4.2
 numpy==1.16.3
 pytest==3.5.1
 python-dateutil==2.7.3
-scipy==1.2.1
+scipy==1.10.0
